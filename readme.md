@@ -353,7 +353,7 @@ weighted avg       0.79      0.79      0.78       256
 ```
 
 ## Deployment
-Berikut hasil dari akhir proyek
+Berikut hasil dari akhir proyek [APLIKASI PREDIKSI DIABETES](https://s.id/AppPredictBatuGinjal)](https://appprediksidiabetes.streamlit.app/)
 
 
 
